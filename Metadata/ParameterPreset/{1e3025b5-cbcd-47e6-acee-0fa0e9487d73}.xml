@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{1e3025b5-cbcd-47e6-acee-0fa0e9487d73}">
+		<property name="name">
+			<value>TestTrack3Vol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6064a019-3a60-44f6-b613-7db586d4663e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6064a019-3a60-44f6-b613-7db586d4663e}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
