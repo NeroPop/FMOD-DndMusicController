@@ -130,6 +130,9 @@
 		<property name="length">
 			<value>153.57387755102042</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{7f1ce554-6414-4215-a3e8-056593e83369}</destination>
 		</relationship>
@@ -160,6 +163,9 @@
 		<property name="length">
 			<value>51.226122448979595</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{9c15f835-e146-4148-a84a-54bbfdbdd16d}</destination>
 		</relationship>
@@ -189,6 +195,9 @@
 	<object class="SingleSound" id="{adfe81bc-ad96-4b22-a1b3-dcd02e6bfe8b}">
 		<property name="length">
 			<value>134.81795918367348</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{669f070e-4508-4de2-a1d8-c4842b60eaa1}</destination>
@@ -299,7 +308,7 @@
 			<value>-75</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.316231906</value>
+			<value>0.109089717</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{ca0252d9-3135-4d9e-a011-5d54e9cbf157}">
@@ -318,7 +327,7 @@
 			<value>-75</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.316231906</value>
+			<value>0.18742314</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{451c4d0d-35bf-4a89-a443-a84388d1a65a}">
@@ -337,7 +346,7 @@
 			<value>-75</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.316231906</value>
+			<value>0.139793411</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{d9a83934-344b-4c40-be56-f9ce8aa6732a}">
