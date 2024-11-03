@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{669f070e-4508-4de2-a1d8-c4842b60eaa1}">
+	<object class="AudioFile" id="{74d67543-ee5c-48a4-ade9-085b4cb2edfb}">
 		<property name="assetPath">
-			<value>03. A Walk in the Skies.mp3</value>
+			<value>Music/Test/03. A Walk in the Skies.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

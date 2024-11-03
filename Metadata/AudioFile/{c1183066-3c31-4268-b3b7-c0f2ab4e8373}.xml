@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9c15f835-e146-4148-a84a-54bbfdbdd16d}">
+	<object class="AudioFile" id="{c1183066-3c31-4268-b3b7-c0f2ab4e8373}">
 		<property name="assetPath">
-			<value>02. The Merry Light Cavalrymen.mp3</value>
+			<value>Music/Test/02. The Merry Light Cavalrymen.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
