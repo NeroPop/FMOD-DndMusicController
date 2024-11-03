@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{83d4af1a-b0ae-4b12-82ef-1698b1f2c824}">
+		<property name="name">
+			<value>OneShotVolume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eea0c3db-ff39-4b6f-8308-6cc4c36422d7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eea0c3db-ff39-4b6f-8308-6cc4c36422d7}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
