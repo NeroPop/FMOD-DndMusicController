@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{232008ce-f0bb-42b1-a94d-2781c8cebb2c}">
+	<object class="ParameterPreset" id="{aae92b18-182a-4c3c-a0c2-27556b475181}">
 		<property name="name">
-			<value>TestMoodChange</value>
+			<value>ExploreVolume</value>
 		</property>
 		<relationship name="folder">
-			<destination>{0ec4c9cd-015d-4143-9aaa-36b647e2be5e}</destination>
+			<destination>{49fbcf9e-a140-4555-a088-62e483380318}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{9ab38b8d-29e4-40cd-b983-4aa99ca78e9f}</destination>
+			<destination>{f9898d52-2f75-4e3b-b9d9-0c5fc84b49c6}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{9ab38b8d-29e4-40cd-b983-4aa99ca78e9f}">
+	<object class="GameParameter" id="{f9898d52-2f75-4e3b-b9d9-0c5fc84b49c6}">
 		<property name="isGlobal">
 			<value>true</value>
 		</property>
