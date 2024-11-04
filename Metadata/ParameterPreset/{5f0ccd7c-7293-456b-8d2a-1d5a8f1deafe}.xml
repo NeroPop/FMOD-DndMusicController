@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{5f0ccd7c-7293-456b-8d2a-1d5a8f1deafe}">
 		<property name="name">
-			<value>MetalDoor</value>
+			<value>PlayOneShot</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b9dfc3b7-2159-4d15-8752-2ca0b756dc2d}</destination>
@@ -16,7 +16,7 @@
 			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>2</value>
+			<value>11</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
