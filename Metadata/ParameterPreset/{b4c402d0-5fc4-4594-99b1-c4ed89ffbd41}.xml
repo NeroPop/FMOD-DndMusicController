@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b4c402d0-5fc4-4594-99b1-c4ed89ffbd41}">
+		<property name="name">
+			<value>DiskBounce</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b9dfc3b7-2159-4d15-8752-2ca0b756dc2d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4f62ef6b-b3c7-4994-b6ef-9060cbbee8ec}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4f62ef6b-b3c7-4994-b6ef-9060cbbee8ec}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
